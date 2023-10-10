@@ -1,5 +1,5 @@
 # Week 1-3: Understanding the fundamental building blocks of web pages - accessible, semantic HTML, and well-organised CSS.
-Referencing my first team project <a href="https://github.com/Paing-Ko/ecoecho">ecoecho.</a> and :link: [My Website](https://paing-ko.github.io/myWebsite/) for FAC application in July 2023.
+Referencing my first team project <a href="https://github.com/Paing-Ko/ecoecho">ecoecho</a> and [My Website](https://github.com/Paing-Ko/myWebsite) for FAC application in July 2023.
 
 
 ## 1. Structure a site using semantic HTML to aid accessibility
