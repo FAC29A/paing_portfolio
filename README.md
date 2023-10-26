@@ -6,6 +6,7 @@ This portfolio template is also designed to showcase your skills and achievement
 
 ## Example from previous cohorts
 
+- https://github.com/benante/Portfolio
 - https://github.com/DominicSimpson/portfolio
 
 ## Learnings
